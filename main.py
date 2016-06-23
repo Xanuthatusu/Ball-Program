@@ -9,7 +9,7 @@ SCREENWIDTH = 1800
 SCREENHEIGHT = 900
 SCREEN = pygame.display.set_mode((SCREENWIDTH,SCREENHEIGHT))
 CLOCK = pygame.time.Clock()
-NUMBALLS = 1
+NUMBALLS = 3
 
 #color assignments
 BLACK = pygame.Color(0,0,0)
